@@ -11,7 +11,7 @@ export default function Cards({name, names, email, ava}) {
                         <div className="card-body">
                             <h5 className="card-title">FirstName:- {name}</h5>
                             <h5 className="card-title" style={{ paddingTop:'5px'}}>LastName:- {names}</h5>
-                            <p className="card-text"style={{ paddingTop:'5px', fontWeight:'400'}}> Email:- {email}</p>
+                            <p className="card-text"style={{ paddingTop:'5px', fontWeight:'400'}}> Emaill:- {email}</p>
                         </div>
                     </div>
                 </div>
